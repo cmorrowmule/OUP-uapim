@@ -7,6 +7,6 @@ projects:
     tags: conor-github
   - main: shipping/shipping-api.yaml
     assetId: CTM-shipping-api
-    version: 1.0.1
+    version: 1.0.2
     apiVersion: v1
     tags: conor-github
